@@ -1,1 +1,1 @@
-Learning branch to learn how proxy is working.
+Learning how proxy is working.
